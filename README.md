@@ -11,13 +11,17 @@
 - 📫 *How to reach me:* aftabalam.developer@gmail.com
 - 😄 *Pronouns:* Aftab
 - ⚡ *Fun fact:* Programmers don’t sleep; they just debug in their dreams 🌙💭.
----------------------------------------------------------------------------------------
+-
 
 
 Email Me 👉 ✉ *aftabalam.developer@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
-
+<br><br>
 ## 🏆 GitHub Trophies
+
+
+
+
 ![](https://github-profile-trophy.vercel.app/?username=AftabAlam007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-aftab-a-08248317b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aftabalam.developer@gmail.com) 
