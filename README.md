@@ -3,6 +3,10 @@
 
 Email Me 👉 ✉ *aftabalam.developer@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
+---------------------------------------------------------------------------------------
+
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" >
+
 - 🔭 *I’m currently working on:* WorkBridge
 - 🌱 *I’m currently learning:* Java in Depth
 - 👯 *I’m looking to collaborate on:* WorkBridge
