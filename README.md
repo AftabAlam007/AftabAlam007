@@ -242,13 +242,16 @@ The backend is developed using **Spring Boot**, while the frontend is built usin
 
 [EmployeeManagementSystem Repository](https://github.com/AftabAlam007/EmployeeManagementSystem?utm_source=chatgpt.com)
 
+---
 
-[## 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,nodejs,mysql,tailwind,redux,bootstrap,git,maven&theme=dark"/>
 </p>
-](https://skillicons.dev/icons?i=java,spring,hibernate,react,mysql,bootstrap,git,maven&theme=dark)
+(https://skillicons.dev/icons?i=java,spring,hibernate,react,mysql,bootstrap,git,maven&theme=dark)
+
+
 ---
 
 ## 📊 GitHub Stats
