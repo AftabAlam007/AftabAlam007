@@ -249,7 +249,7 @@ The backend is developed using **Spring Boot**, while the frontend is built usin
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,nodejs,mysql,tailwind,redux,bootstrap,git,maven&theme=dark"/>
 </p>
-(https://skillicons.dev/icons?i=java,spring,hibernate,react,mysql,bootstrap,git,maven&theme=dark)
+
 
 
 ---
