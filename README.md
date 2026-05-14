@@ -272,9 +272,13 @@ The backend is developed using **Spring Boot**, while the frontend is built usin
 
 ## 🎯 Current Focus
 
-* 🔥 Microservices Architecture
-* ⚡ System Design
-* 🚀 Backend Scalability
+🔥 Java & Spring Boot Development
+⚡ REST API & Backend Development
+🚀 Full Stack Web Application Development
+🛠 JWT Authentication & Secure Systems
+📚 Data Structures & Interview Preparation
+💡 Scalable Backend Architecture
+
 
 ---
 
