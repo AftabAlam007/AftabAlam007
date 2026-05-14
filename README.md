@@ -33,33 +33,215 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏢 WorkBridge – HR Management System
+---
 
-**Tech:** React.js, Spring Boot, MySQL
+# 🏢 WorkBridge – HR Management System
 
-✔ Employee, Payroll & Attendance Management
+A full-stack HR Management System developed using **React.js, Spring Boot, and MySQL** to simplify HR operations and employee management.
+
+## 🚀 Tech Stack
+
+* Frontend: React.js
+* Backend: Spring Boot
+* Database: MySQL
+* Authentication: JWT Authentication
+* API Testing: Postman
+
+---
+
+## ✨ Features
+
+✔ Employee Management
+✔ Payroll & Attendance Management
 ✔ Secure JWT Authentication
-✔ Scalable backend + clean UI
+✔ REST API Integration
+✔ Responsive Dashboard UI
+✔ Scalable Backend Architecture
 
-🔗 https://hr-management-system-demo.vercel.app
-💻 https://github.com/AftabAlam007/HR_MANAGEMENT
+---
+
+## 📌 Project Overview
+
+WorkBridge helps organizations manage employees, payroll, and attendance efficiently through a secure and scalable web application.
+
+The application provides authentication, employee record handling, attendance tracking, and payroll management with a clean responsive interface.
+
+The backend is built using **Spring Boot REST APIs**, while the frontend is developed with **React.js**. Data is stored using **MySQL**.
 
 ---
 
-### 🍔 QuickEats – Food Delivery App
+## 🔧 Functionalities
 
-**Tech:** Java, Spring Boot, React.js
-
-✔ Real-time order tracking
-✔ Secure payment system
-✔ REST API architecture
-
-🔗 https://quick-eats-demo.vercel.app
-💻 https://github.com/AftabAlam007/QUICKEATS
+* Add, Update, Delete Employees
+* Payroll & Attendance Tracking
+* JWT-based Authentication & Authorization
+* REST API Communication
+* Responsive UI Design
+* MySQL Database Integration
 
 ---
+
+## 🛠 Responsibilities
+
+* Developed frontend using React.js
+* Built REST APIs using Spring Boot
+* Implemented JWT Authentication
+* Connected frontend with backend APIs
+* Designed responsive UI
+* Managed MySQL database integration
+
+---
+
+## 🌐 Live Demo
+
+[WorkBridge Live Demo](https://hr-management-system-demo.vercel.app?utm_source=chatgpt.com)
+
+---
+
+## 💻 GitHub Repository
+
+[WorkBridge GitHub Repository](https://github.com/AftabAlam007/HR_MANAGEMENT?utm_source=chatgpt.com)
+
+---
+
+# 🍔 QuickEats – Food Delivery App
+
+A full-stack Food Delivery Application developed using **React.js, Spring Boot, and MySQL** with real-time order management and secure API integration.
+
+## 🚀 Tech Stack
+
+* Frontend: React.js
+* Backend: Spring Boot
+* Database: MySQL
+* Authentication: JWT Authentication
+* API Testing: Postman
+
+---
+
+## ✨ Features
+
+✔ Real-time Order Tracking
+✔ Secure Authentication System
+✔ REST API Architecture
+✔ Food & Cart Management
+✔ Responsive User Interface
+✔ Scalable Backend System
+
+---
+
+## 📌 Project Overview
+
+QuickEats is designed to provide a smooth food ordering experience with secure authentication, real-time order tracking, and efficient restaurant management.
+
+The application allows users to browse food items, place orders, manage carts, and track deliveries through a responsive interface.
+
+The backend is developed using **Spring Boot**, while the frontend is built using **React.js** with **MySQL** database integration.
+
+---
+
+## 🔧 Functionalities
+
+* Browse Food Items & Categories
+* Add to Cart & Place Orders
+* Real-time Order Tracking
+* JWT-based Authentication
+* REST API Communication
+* Responsive UI Design
+
+---
+
+## 🛠 Responsibilities
+
+* Developed frontend using React.js
+* Built backend APIs using Spring Boot
+* Implemented secure JWT Authentication
+* Connected frontend and backend APIs
+* Designed responsive user interface
+* Managed MySQL database integration
+
+---
+
+## 🌐 Live Demo
+
+[QuickEats Live Demo](https://quick-eats-demo.vercel.app?utm_source=chatgpt.com)
+
+---
+
+## 💻 GitHub Repository
+
+[QuickEats GitHub Repository](https://github.com/AftabAlam007/QUICKEATS?utm_source=chatgpt.com)
+
+---
+
+# 🏢 Empower – Employee Management System
+
+A full-stack Employee Management System developed using **React.js, Spring Boot, and MySQL** to simplify employee record handling and HR operations.
+
+## 🚀 Tech Stack
+
+* Frontend: React.js
+* Backend: Spring Boot
+* Database: MySQL
+* Authentication: JWT Authentication
+* API Testing: Postman
+
+---
+
+## ✨ Features
+
+✔ Employee Management
+✔ Department & Role Management
+✔ Secure JWT Authentication
+✔ REST API Integration
+✔ Responsive Dashboard UI
+✔ Scalable Backend Architecture
+
+---
+
+## 📌 Project Overview
+
+Empower helps organizations manage employee records securely through a modern and responsive web application.
+
+The application supports employee data management, department handling, and authentication with scalable backend APIs.
+
+The backend is developed using **Spring Boot**, while the frontend is built using **React.js** and integrated with **MySQL**.
+
+---
+
+## 🔧 Functionalities
+
+* Add, Update, Delete Employees
+* Manage Departments & Roles
+* JWT-based Authentication
+* REST API Communication
+* Responsive UI Design
+* MySQL Database Integration
+
+---
+
+## 🛠 Responsibilities
+
+* Developed frontend components using React.js
+* Built REST APIs using Spring Boot
+* Implemented JWT Authentication
+* Connected frontend with backend APIs
+* Designed responsive UI
+* Managed MySQL database integration
+
+---
+
+## 🌐 Live Demo
+
+[Empower Live Demo](https://empower-demo.vercel.app/?utm_source=chatgpt.com)
+
+---
+
+## 💻 GitHub Repository
+
+[EmployeeManagementSystem Repository](https://github.com/AftabAlam007/EmployeeManagementSystem?utm_source=chatgpt.com)
+
 
 ## 🛠 Tech Stack
 
