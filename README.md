@@ -284,7 +284,7 @@ The backend is developed using **Spring Boot**, while the frontend is built usin
 
 ## 📄 Resume
 
-(https://drive.google.com/file/d/1U9J-c6bAn-0wXtO0ykpUrqaX2SRofZTl/view?usp=drivesdk)
+https://drive.google.com/file/d/1U9J-c6bAn-0wXtO0ykpUrqaX2SRofZTl/view?usp=drivesdk
 
 ---
 
