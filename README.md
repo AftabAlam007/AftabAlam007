@@ -7,10 +7,15 @@
 </h3>
 
 <p align="center">
+  <a href="https://md-aftab-alam-portfolio.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00FFB3?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+  </a>
+
   <a href="mailto:aftabalam.developer@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://linkedin.com/in/md-aftab-a-08248317b">
+
+  <a href="https://linkedin.com/in/md-aftab-a-08248317b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
