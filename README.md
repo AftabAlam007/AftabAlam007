@@ -1,3 +1,15 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:FF00FF,100:39FF14&height=120&section=header"/>
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=FF00FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Systems;Clean+Code+Matters;Open+to+Work"/> </p>
+
+
+
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,docker,redis,kafka,aws&theme=dark"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Md+Aftab+Alam;Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Scalable+Systems;Open+to+Work+%F0%9F%9A%80"/>
 </h1>
